@@ -1,4 +1,4 @@
-# Fusion-OutputHooker
+# PIGS MAMEHooker INIs 
 This is a work in progress! 
 
 ## Info 
