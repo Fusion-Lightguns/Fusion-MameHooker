@@ -2,14 +2,17 @@
 This is a work in progress! 
 
 ## Info 
-Files & scripts for Fusion output for Arcades, LEDs, etc.
+- INI files for PIGS to use with mamehooker.
+- You will need to match COM ports for this to work . 
 
-This is based loosely on 
-[Retro Shooter MameHooker Files](https://github.com/AchillesPDX/MameHookerConfigs?fbclid=IwY2xjawHafhNleHRuA2FlbQIxMQABHdSeu-mPqgR5to6Ol9FD4Thl9Ms90YhZOMsB39VkeK36pFQpWK6N6dzVpA_aem_jgJ4JFlGKMPbjrVLxQvTjg)
+## COM Ports 
 
-## Features 
-- Ini files for MAMEHooker.
-- Files compatible with qmamehook .
-- Instructions for use. Like what com port , how to install etc.
+Player 1 ---- COM 
+
+Player 2 ---- COM 
+
+Player 3 ---- COM
+
+Player 4 ---- COM
 
 
