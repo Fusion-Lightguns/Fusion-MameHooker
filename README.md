@@ -7,12 +7,12 @@ This is a work in progress!
 
 ## COM Ports 
 
-Player 1 ---- COM 
+Player 1 ---- COM 8
 
-Player 2 ---- COM 
+Player 2 ---- COM 9
 
-Player 3 ---- COM
+Player 3 ---- COM 10
 
-Player 4 ---- COM
+Player 4 ---- COM 11
 
 
